@@ -1,10 +1,10 @@
-* ESP32C3 BLE Monitor 
+/* ESP32C3 BLE Monitor 
  * @auther : Ziad-Elmekawy
  * @file   : Hardware/BLE
- * @date   : 29, November, 2025
+ * @date   : 26, April, 2025
  * @proj   : AURA Health Monitor
  * @desc   : Send JSON data through BLE 
-
+*/
 #include <BLEDevice.h>
 #include <BLEServer.h>
 #include <BLEUtils.h>
