@@ -1,14 +1,14 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Smart%20Health%20Monitoring%20System&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Graduation%20Project%20%7C%20ESP32%20%7C%20Firebase%20%7C%20Mobile%20App&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Smart%20Health%20Monitoring%20System&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Graduation%20Project%20%7C%20ESP32%20%7C%20MongoDB%20%7C%20Mobile%20App&descAlignY=58&descSize=18" />
 </p>
 
-# 🎓 Graduation Project - AURA 
-#    Smart Health Monitoring System
+# 🎓 Graduation Project - AURA  
+### Smart Health Monitoring System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Graduation%20Project-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Platform-ESP32-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Cloud-Firebase-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MongoDB-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Mobile-App-blueviolet?style=for-the-badge" />
 </p>
 
@@ -23,7 +23,7 @@ The system integrates:
 - 📟 **ESP32 microcontroller**
 - 🌡️ **Body temperature monitoring**
 - 🩸 **Non-invasive glucose estimation**
-- ☁️ **MongoDB database**
+- ☁️ **MongoDB cloud database**
 - 📱 **Mobile application for monitoring**
 - 🔔 **Alerts and notifications**
 
@@ -56,7 +56,7 @@ The goal is to build a **portable IoT healthcare device** capable of collecting 
 
 ### 🔹 Software
 - Arduino IDE
-- MongoDB Realtime Database
+- MongoDB Cloud Database
 - Mobile App Integration
 - Embedded C/C++
 
@@ -65,11 +65,14 @@ The goal is to build a **portable IoT healthcare device** capable of collecting 
 ## 🏗️ System Architecture
 
 ```bash
-Sensors → ESP32 → Mobile App   →          Backend          → MongoDB Cloud
-                 ↓                           ↓          ↓
-              OLED Display                Frontend   Data Science
-                 ↓
-        Alert Notifications
+Sensors → ESP32 → Mobile App → Backend → MongoDB Cloud
+                 ↓             ↓
+              OLED Display   Frontend
+                 ↓             ↓
+        Alert Notifications  Data Science
+```
+
+This architecture enables the device to collect, process, store, and visualize health data in real time.
 
 ---
 
@@ -103,4 +106,25 @@ To make this repository even more professional, future improvements can include:
 4. 🛡️ **More GitHub badges**
 5. 📷 **Screenshots section**
 
-These additions can make the project presentation more engaging and attractive for academic and professional review.
+---
+
+## 👨‍💻 Team members
+
+**Ziad Elmekawy   - Hardware**
+**Mahmoud Elsaey  - Hardware**
+**Arwa Adly       - Mobile app**
+**Zeyad Albadawy  - Backend**
+**Hagar Zaki      - Backend**
+**Abdallah Ismail - Data Science**
+**Ahmed Kamel     - Frontend**
+**Sarah Saber     - Frontend**
+**Ahmed Hekal     - UI/UX**
+
+
+- GitHub: [ZIAD-ELMEKAWY](https://github.com/ZIAD-ELMEKAWY)
+
+---
+
+## 📄 License
+
+This project is for **academic and educational purposes**.
