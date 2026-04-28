@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Smart%20Health%20Monitoring%20System&fontSize=35&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Graduation%20Project%20%7C%20ESP32%20%7C%20MongoDB%20%7C%20Mobile%20App&descAlignY=58&descSize=18" />
 </p>
 
-# 🎓 Graduation Project - AURA  
-### Smart Health Monitoring System
+# 🎓 Graduation Project - AURA - Smart Health Monitoring System
 
 <p align="center">
   <img src="https://img.shields.io/badge/Project-Graduation%20Project-blue?style=for-the-badge" />
