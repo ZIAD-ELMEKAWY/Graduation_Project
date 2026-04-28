@@ -110,15 +110,15 @@ To make this repository even more professional, future improvements can include:
 
 ## 👨‍💻 Team Members
 
-- **Ziad Elmekawy** — Hardware  
-- **Mahmoud Elsaey** — Hardware  
-- **Arwa Adly** — Mobile App  
-- **Zeyad Albadawy** — Backend  
-- **Hagar Zaki** — Backend  
+- **Ziad Elmekawy**   — Hardware  
+- **Mahmoud Elsaey**  — Hardware  
+- **Arwa Adly**       — Mobile App  
+- **Zeyad Albadawy**  — Backend  
+- **Hagar Zaki**      — Backend  
 - **Abdallah Ismail** — Data Science  
-- **Ahmed Kamel** — Frontend  
-- **Sarah Saber** — Frontend  
-- **Ahmed Hekal** — UI/UX  
+- **Ahmed Kamel**     — Frontend  
+- **Sarah Saber**     — Frontend  
+- **Ahmed Hekal**     — UI/UX  
 
 
 - GitHub: [ZIAD-ELMEKAWY](https://github.com/ZIAD-ELMEKAWY)
