@@ -1,3 +1,11 @@
+/* ESP32C3 BLE Monitor 
+ * @auther : Ziad-Elmekawy
+ * @file   : Hardware/OLED
+ * @date   : 24, April, 2026
+ * @proj   : AURA Health Monitor
+ * @desc   : Measure Temperature body and Blood Glucose
+*/
+
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
